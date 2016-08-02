@@ -34,7 +34,7 @@ def substrings(word, wordset)
 		end
 		j += 1
 	end
-	substring_hash
+	return substring_hash
 	puts substring_hash
 end
 
